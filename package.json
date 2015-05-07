@@ -1,0 +1,23 @@
+{
+  "name": "ydn-db-custom",
+  "version": "0.0.0",
+  "description": "Bower repository for custom builds of ydn.db",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jivesoftware/ydn-db-custom.git"
+  },
+  "author": "Jon Edvald <jon.edvald@jivesoftware.com>",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/jivesoftware/ydn-db-custom/issues"
+  },
+  "devDependencies": {
+    "commander": "~2.8.1",
+    "underscore": "~1.8.3",
+    "async": "~0.9.0"
+  }
+}

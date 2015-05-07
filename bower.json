@@ -1,0 +1,26 @@
+{
+  "name": "ydn-db-custom",
+  "version": "1.1.2",
+  "homepage": "https://github.com/jivesoftware/ydn-db-custom",
+  "authors": [
+    "Jon Edvald <jon.edvald@jivesoftware.com>"
+  ],
+  "description": "Alternative bower package for ydn.db by Yathit (see https://dev.yathit.com), a javascript database module for IndexedDB, WebDatabase (WebSQL) and WebStorage (localStorage) storage mechanisms supporting version migration, advanced query and transaction workflow.",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "ydn-db",
+    "indexeddb",
+    "websql"
+  ],
+  "license": "Apache License 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
